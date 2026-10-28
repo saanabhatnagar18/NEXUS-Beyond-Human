@@ -56,7 +56,7 @@ For a better development experience, use the **Live Server** extension in Visual
 
 ## 📸 Demo Recording
 
-**Project Demo:** Add your demo video link here after recording and uploading it.
+**Project Demo:** https://drive.google.com/file/d/1SXuAwZQwC1lVNtOPpAOalfG9eni1eK_f/view?usp=sharing
 
 The demo should showcase the landing page, animations, interactive elements, and responsive behavior on different screen sizes.
 
@@ -86,9 +86,9 @@ This project demonstrates front-end development skills through a visually engagi
 
 ## 👩‍💻 Author
 
-**Your Name:** Add your name here.
+**Your Name:** Saana Bhatnagar
 
-**GitHub:** Add your GitHub profile URL here.
+**GitHub:** https://github.com/saanabhatnagar18
 
 ## 📄 License
 
