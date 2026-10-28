@@ -54,10 +54,6 @@ Open `index.html` in your web browser.
 
 For a better development experience, use the **Live Server** extension in Visual Studio Code.
 
-## 🌐 Live Demo
-
-**Live Website:** Add your deployed website URL here after publishing with GitHub Pages.
-
 ## 📸 Demo Recording
 
 **Project Demo:** Add your demo video link here after recording and uploading it.
@@ -77,7 +73,7 @@ You can deploy this project for free using GitHub Pages.
 
 ## 🎯 Project Objective
 
-The objective of this project is to demonstrate front-end development skills through a visually engaging, responsive, and interactive landing page inspired by futuristic cybernetic technology.
+This project demonstrates front-end development skills through a visually engaging, responsive, interactive landing page inspired by futuristic cybernetic technology.
 
 ## 🔮 Future Enhancements
 
